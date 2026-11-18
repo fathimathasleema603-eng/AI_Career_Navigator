@@ -1,0 +1,10 @@
+streamlit
+ollama
+python-dotenv
+python-docx
+pypdf
+
+langchain
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
